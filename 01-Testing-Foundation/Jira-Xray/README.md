@@ -4,15 +4,15 @@ This folder documents the Jira Cloud project **ShopEasy QA** (project key: `SEQ`
 
 ## Export summary
 
-- Total exported work items: **37**
+- Total exported work items: **43**
 - Epics: **4**
 - Stories: **17**
 - Xray Tests: **10**
 - Preconditions: **2**
-- Test Sets: **1**
-- Test Plans: **1**
-- Test Executions: **1**
-- Bugs: **1**
+- Test Sets: **3**
+- Test Plans: **2**
+- Test Executions: **2**
+- Bugs: **3**
 
 ## Contents
 

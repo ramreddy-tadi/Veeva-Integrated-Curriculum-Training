@@ -1,0 +1,322 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Outward issue link (Relates),Inward issue link (Test),Inward issue link (Test).1,Inward issue link (Test).2,Inward issue link (Test).3,Inward issue link (Test).4,Outward issue link (Test),Custom field (Actual end),Custom field (Actual start),Custom field (Affected hardware),Custom field (Affected services),Custom field (Approvals),Custom field (Atlassian Project),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Focus Areas),Custom field (Goals),Custom field (Impact),Custom field (Incident manager),Custom field (Insights),Custom field (Issue color),Custom field (Locked forms),Custom field (Major incident),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Responders),Satisfaction rating,Custom field (Satisfaction date),Custom field (Sentiment),Custom field (Severity),Sprint,Custom field (Start date),Custom field (Status pages),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Time to close after resolution),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Total forms),Custom field (Urgency),Custom field (Work category),Custom field (Work item created forms),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Parent,Parent key,Parent summary,Status category,Status category changed
+Account And Login,SEQ-1,10004,Epic,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 8:36 PM,29/Oct/26 8:36 PM,01/Nov/26 7:52 PM,,,0,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},ghx-label-10,,To Do,,,,,,blue,,,,,,0|i0000n:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,29/Oct/26 8:37 PM
+Browse and Search,SEQ-2,10005,Epic,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 8:38 PM,29/Oct/26 11:10 PM,30/Oct/26 12:12 AM,,,0,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},ghx-label-9,,To Do,,,,,,orange,,,,,,0|i0000o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,29/Oct/26 8:38 PM
+Cart,SEQ-3,10006,Epic,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 8:38 PM,29/Oct/26 8:38 PM,30/Oct/26 12:20 AM,,,0,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},ghx-label-12,,To Do,,,,,,grey,,,,,,0|i0000w:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,29/Oct/26 8:38 PM
+Payment and CheckOut,SEQ-4,10007,Epic,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 8:39 PM,29/Oct/26 11:11 PM,30/Oct/26 12:23 AM,,,0,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},ghx-label-6,,To Do,,,,,,green,,,,,,0|i0001b:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,29/Oct/26 8:39 PM
+"As a user i want to register with full name,email and password so that my account will be registered",SEQ-5,10008,Story,Done,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,High,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 8:50 PM,01/Nov/26 8:14 PM,31/Oct/26 11:25 AM,,,0,REQ-A1,"h3. User story
+
+As a user, when I register, I want to enter my full name, email, and password so that my account will be registered.
+
+h3. Context
+
+This issue is related to user registration.
+
+h3. Acceptance criteria
+
+* The registration form includes full name, email, and password fields.
+* A user can register successfully with valid full name, email, and password",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,SEQ-27,SEQ-22,SEQ-24,SEQ-25,SEQ-26,SEQ-28,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0001i:,,,,,,,,,SEQ Sprint 1,,,1.0,,,,,,,,,,,,,,,10004.0,SEQ-1,Account And Login,Done,01/Nov/26 8:14 PM
+As a register user i want to log in with my email and password so that i will land on the home page,SEQ-6,10009,Story,In Progress,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,High,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 9:34 PM,01/Nov/26 8:18 PM,01/Nov/26 5:15 PM,,,0,REQ-A2,"h3. User story
+
+As a registered user, when I want to log in, I want to use my email and password so that I land on the home page.
+
+h3. Context
+
+The issue is about the user login flow using email and password.
+
+h3. Acceptance criteria
+
+* The user can log in with a valid email and password.
+* If the user logs in with invalid credentials, an error message is shown.
+* After successful login, the user lands on the home page.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,SEQ-36,SEQ-29,SEQ-30,SEQ-31,SEQ-32,SEQ-33,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0001x:,,,,,,,,,SEQ Sprint 1,,,2.0,,,,,,,,,,,,,,,10004.0,SEQ-1,Account And Login,In Progress,01/Nov/26 8:14 PM
+As a user when i forgot the password i want a reset link to be emailed to the registered email so that i will add new password,SEQ-8,10011,Story,Done,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,High,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 9:45 PM,02/Nov/26 10:19 AM,01/Nov/26 7:47 PM,,,0,REQ-A4,"h3. User story
+
+As a user, when I forget my password, I want a reset link to be emailed to my registered email so that I can set a new password.
+
+h3. Context
+
+The issue is about password recovery for users who forget their password.
+
+h3. Acceptance criteria
+
+* A password reset link is emailed to the registered email address.
+* The user can use the link to set a new password.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,SEQ-34,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0001z:,,,,,,,,,SEQ Sprint 1,,,3.0,,,,,,,,,,,,,,,10004.0,SEQ-1,Account And Login,Done,02/Nov/26 10:19 AM
+"As a user when i search for a product i want a list of 12 products per page with pagination and each product card should show image,name,price",SEQ-10,10013,Story,In Progress,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,High,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 9:54 PM,02/Nov/26 10:18 AM,30/Oct/26 12:30 AM,,,0,REQ-B1,"h3. User story
+
+As a user, when I search for a product, I want to see a list of 12 products per page with pagination so that I can browse results more easily.  
+As a user, when I view a product card, I want it to show the image, name, and price so that I can quickly compare products.
+
+h3. Context
+
+The issue is about improving product search results display.
+
+h3. Acceptance criteria
+
+* Show 12 products per page in search results.
+* Add pagination to the product list.
+* Each product card should display:
+** Image
+** Name
+** Price",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00020:,,,,,,,,,SEQ Sprint 1,,,2.0,,,,,,,,,,,,,,,10005.0,SEQ-2,Browse and Search,In Progress,02/Nov/26 10:18 AM
+As a user when i search by keyword in the product name if nothing matches i want the message No products found,SEQ-11,10014,Story,In Progress,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,High,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 9:58 PM,02/Nov/26 10:18 AM,30/Oct/26 12:31 AM,,,0,REQ-B2,"h3. User story
+
+As a user, when I search by product name and get no matches, I want to see “No products found” so I know there are no matching products.
+
+h3. Context
+
+When a product-name search returns no matches, show a clear message.
+
+This applies only to name-scoped searches, ensuring consistent feedback whenever such searches yield zero results.
+
+h3. Acceptance criteria
+
+* If a product-name keyword search returns no results, display “No products found”.
+* Show the message in the same view where results appear, visible immediately after the search completes.
+
+h3. ",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00021:,,,,,,,,,SEQ Sprint 1,,,3.0,,,,,,,,,,,,,,,10005.0,SEQ-2,Browse and Search,In Progress,02/Nov/26 10:18 AM
+As a user when i click the cart icon i want it to show the total no of items in the cart,SEQ-15,10018,Story,In Progress,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,High,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 10:27 PM,02/Nov/26 10:18 AM,30/Oct/26 12:12 AM,,,0,REQ-C1,"h3. User story
+
+As a user, when I click the cart icon, I want it to show the total number of items in the cart so that I can quickly see how many items I have added.
+
+h3. Context
+
+The issue is about the cart icon display. The goal is to show the total number of items in the cart.
+
+h3. Acceptance criteria
+
+* The cart icon shows the total number of items in the cart.
+* When I remove an item from the cart, the total number decreases.
+* When I add an item to the cart, the total number increases.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00021:i,,,,,,,,,SEQ Sprint 1,,,2.0,,,,,,,,,,,,,,,10006.0,SEQ-3,Cart,In Progress,02/Nov/26 10:18 AM
+As a user i want each item could have a quantity from 1 to 10 and changing the quantity should update the line total,SEQ-16,10019,Story,Done,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,High,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 10:47 PM,02/Nov/26 10:19 AM,30/Oct/26 12:17 AM,,,0,REQ-C2,"h3. User story
+
+As a user, when I view an item, I want to set its quantity from 1 to 10 so that the line total updates when the quantity changes.
+
+h3. Context
+
+The issue is about allowing each item to have a selectable quantity and recalculating the line total when that quantity is changed.
+
+h3. Acceptance criteria
+
+* Each item can have a quantity from 1 to 10.
+* Changing the quantity updates the line total.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00021:r,,,,,,,,,SEQ Sprint 1,,,1.0,,,,,,,,,,,,,,,10006.0,SEQ-3,Cart,Done,02/Nov/26 10:19 AM
+"As a user when the payment page is open i want the payment options like payment by card,UPI,cash on delivery so that i can pay by choosing any one option",SEQ-20,10023,Story,In Progress,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,High,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 11:02 PM,02/Nov/26 10:18 AM,30/Oct/26 12:21 AM,,,0,REQ-D2,"h3. User story
+
+As a user, when the payment page is open, I want to see payment options like card, UPI, and cash on delivery so that I can pay by choosing one option.
+
+h3. Context
+
+The issue is about showing payment methods on the payment page.
+
+h3. Acceptance criteria
+
+* It should show different payment options.
+* It should include a gift card payment option.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00021:v,,,,,,,,,SEQ Sprint 1,,,2.0,,,,,,,,,,,,,,,10007.0,SEQ-4,Payment and CheckOut,In Progress,02/Nov/26 10:18 AM
+As a user after 5 consecutive failed login attempts i want the account to be locked for 15 min ,SEQ-7,10010,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 9:39 PM,01/Nov/26 8:11 PM,01/Nov/26 7:52 PM,,,0,REQ-A3,"h3. User story
+
+As a user, when I have 5 consecutive failed login attempts, I want my account to be locked for 15 minutes so that the account is protected.
+
+h3. Context
+
+The issue requests account locking after repeated failed login attempts.
+
+h3. Acceptance criteria
+
+* The account is locked after 5 consecutive failed login attempts.
+* The lock lasts for 15 minutes.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,SEQ-35,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00022:,,,,,,,,,SEQ Sprint 2,,,1.0,,,,,,,,,,,,,,,10004.0,SEQ-1,Account And Login,To Do,29/Oct/26 9:39 PM
+As a user when i click the logout button i want the session to be ended and when i press back button in the brower it should not show the account pages,SEQ-9,10012,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 9:50 PM,30/Oct/26 12:36 AM,29/Oct/26 11:56 PM,,,0,REQ-A5,"h3. User story
+
+As a user, when I click the logout button, I want the session to be ended so that when I press the back button in the browser, account pages are not shown.
+
+h3. Context
+
+The issue is about logout behavior in the browser after a user signs out.
+
+h3. Acceptance criteria
+
+* When the user clicks the logout button, the session is ended.
+* After logout, pressing the browser back button does not show account pages.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0002k:,,,,,,,,,SEQ Sprint 2,,,2.0,,,,,,,,,,,,,,,10004.0,SEQ-1,Account And Login,To Do,29/Oct/26 9:50 PM
+As a user when i filter by category and price range i want both filters should be used together,SEQ-12,10015,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 10:01 PM,30/Oct/26 12:36 AM,30/Oct/26 12:05 AM,,,0,REQ-B3,"h3. User story
+
+As a user, when I filter by category and price range, I want both filters to be used together so that I can narrow down results more accurately.
+
+h3. Context
+
+The issue is about combining category and price range filters in the same search or listing view.
+
+h3. Acceptance criteria
+
+* Category and price range filters should work together.
+* Applying one filter should not remove the other filter.
+* Results should reflect both selected filters at the same time.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0003b:,,,,,,,,,SEQ Sprint 2,,,1.0,,,,,,,,,,,,,,,10005.0,SEQ-2,Browse and Search,To Do,29/Oct/26 10:01 PM
+As a user when i sort the products by price i want the product list in that sorted order,SEQ-13,10016,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 10:08 PM,30/Oct/26 12:36 AM,30/Oct/26 12:06 AM,,,0,REQ-B4,"h3. User story
+
+As a user, when I sort the products by price, I want the product list to stay in that sorted order so that I can browse products more easily.
+
+h3. Context
+
+The issue is about keeping the product list sorted by price after the user applies a price sort.
+
+h3. Acceptance criteria
+
+* When I sort from price low to high, the products should be in ascending order.
+* When I sort from price high to low, the products should be in descending order.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0003e:,,,,,,,,,SEQ Sprint 2,,,2.0,,,,,,,,,,,,,,,10005.0,SEQ-2,Browse and Search,To Do,29/Oct/26 10:08 PM
+"As a user when i click on the product i want the product images,name,price and stock status so that i will decide whether to buy or not ",SEQ-14,10017,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 10:24 PM,30/Oct/26 12:36 AM,30/Oct/26 12:09 AM,,,0,REQ-B5,"h3. User story
+
+As a user, when I click on a product, I want to see the product images, name, price, and stock status so that I can decide whether to buy it or not.
+
+h3. Context
+
+The issue is about showing key product details after a user clicks on a product.
+
+h3. Acceptance criteria
+
+* Show whether the product is in stock or out of stock.
+* Disable the add to cart button when the product is out of stock.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0003o:,,,,,,,,,SEQ Sprint 2,,,2.0,,,,,,,,,,,,,,,10005.0,SEQ-2,Browse and Search,To Do,29/Oct/26 10:24 PM
+As a user when i removed an item from the cart i want the cart total should be updated immediately and an empty cart should show a message,SEQ-17,10020,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 10:50 PM,30/Oct/26 12:36 AM,30/Oct/26 12:18 AM,,,0,REQ-C3,"h3. User story
+
+As a user, when I remove an item from the cart, I want the cart total to update immediately so that I can see the correct total.  
+As a user, when the cart is empty, I want to see a message so that I know there are no items in the cart.
+
+h3. Context
+
+The issue is about updating the cart UI after an item is removed.
+
+h3. Acceptance criteria
+
+* The cart total is updated immediately after an item is removed.
+* An empty cart shows a message.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00040:,,,,,,,,,SEQ Sprint 2,,,2.0,,,,,,,,,,,,,,,10006.0,SEQ-3,Cart,To Do,29/Oct/26 10:50 PM
+As a user when i apply a coupon code i want the cart value should be decreased according to the coupon dicount percentage and the cart should allow one coupon per order,SEQ-18,10021,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 10:54 PM,30/Oct/26 12:36 AM,30/Oct/26 12:19 AM,,,0,REQ-C4,"h3. User story
+
+As a user, when I apply a coupon code, I want the cart value to decrease according to the coupon discount percentage so that I can see the correct discounted total.
+
+As a user, when I place an order, I want the cart to allow only one coupon per order so that I cannot apply multiple coupons.
+
+h3. Context
+
+The issue is about coupon code behavior in the cart. The cart total should update based on the coupon discount percentage.
+
+h3. Acceptance criteria
+
+* The cart value decreases according to the coupon discount percentage when a coupon code is applied.
+* The cart allows only one coupon per order.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00048:,,,,,,,,,SEQ Sprint 2,,,3.0,,,,,,,,,,,,,,,10006.0,SEQ-3,Cart,To Do,29/Oct/26 10:54 PM
+As a user when i checkout i want the user to be logged in and shipping details are all mandatory,SEQ-19,10022,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 10:58 PM,30/Oct/26 12:36 AM,30/Oct/26 12:20 AM,,,0,REQ-D1,"h3. User story
+
+As a user, when I checkout, I want to be logged in so that I can complete the checkout process.
+
+As a user, when I checkout, I want all shipping details to be mandatory so that my order has the required information.
+
+h3. Context
+
+The issue is about the checkout flow. It requires the user to be logged in before checkout. It also requires shipping details to be mandatory.
+
+h3. Acceptance criteria
+
+* The user must be logged in during checkout.
+* All shipping details must be mandatory.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0004n:,,,,,,,,,SEQ Sprint 2,,,2.0,,,,,,,,,,,,,,,10007.0,SEQ-4,Payment and CheckOut,To Do,29/Oct/26 10:58 PM
+As a user after placing the order i want a confirmation page shows a unique order id and a confirmation email is to be sent,SEQ-21,10024,Story,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,29/Oct/26 11:04 PM,30/Oct/26 12:37 AM,30/Oct/26 12:23 AM,,,0,REQ-D3,"h3. User story
+
+As a user, when I place an order, I want to see a confirmation page with a unique order ID and receive a confirmation email so that I know my order was placed successfully.
+
+h3. Context
+
+The issue is about the order confirmation flow after a user places an order.
+
+h3. Acceptance criteria
+
+* A confirmation page is shown after the order is placed.
+* The confirmation page includes a unique order ID.
+* A confirmation email is sent after the order is placed.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00058:,,,,,,,,,SEQ Sprint 2,,,1.0,,,,,,,,,,,,,,,10007.0,SEQ-4,Payment and CheckOut,To Do,29/Oct/26 11:04 PM
+"register with valid name,email,password",SEQ-22,10025,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,31/Oct/26 11:30 AM,31/Oct/26 12:28 PM,01/Nov/26 8:11 PM,,,0,TC1,"h3. Summary
+
+Register with valid name, email, and password.
+
+h3. Context
+
+The issue is about the registration flow.
+
+h3. Acceptance criteria
+
+* Register with valid name, email, and password.",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-5,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0005e:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,31/Oct/26 11:30 AM
+registration testset,SEQ-26,10029,Test Set,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,31/Oct/26 12:07 PM,31/Oct/26 12:32 PM,31/Oct/26 12:31 PM,,,0,TS1,"h3. Summary
+
+registration testset
+
+h3. Context
+
+registration testset
+
+h3. ",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-5,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0005h:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,31/Oct/26 12:07 PM
+registration with invalid email,SEQ-24,10027,Xray Test,Done,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,31/Oct/26 11:41 AM,02/Nov/26 10:17 AM,01/Nov/26 8:12 PM,,,0,TC2,"h3. Summary
+
+Registration with invalid email.
+
+h3. Context
+
+The issue is about registration using an invalid email address.
+
+h3. Acceptance criteria
+
+* Registration should not allow an invalid email address.
+
+h3. Other information
+
+registration with invalid email",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,SEQ-37,,,,,,SEQ-5,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0005k:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Done,02/Nov/26 10:17 AM
+register without filling any details,SEQ-25,10028,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,31/Oct/26 11:47 AM,31/Oct/26 12:31 PM,01/Nov/26 8:12 PM,,,0,TC3,"h3. Summary
+
+register without filling any details
+
+h3. Context
+
+register without filling any details
+
+h3. Acceptance criteria
+
+* Register without filling any details
+
+h3. Other information
+
+N/A",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-5,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0005n:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,31/Oct/26 11:47 AM
+registration form should be present,SEQ-23,10026,Precondition,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,31/Oct/26 11:38 AM,31/Oct/26 12:28 PM,31/Oct/26 12:29 PM,,,0,PC1,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0005r:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,31/Oct/26 11:38 AM
+registration functionality test plan,SEQ-27,10030,Test Plan,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,31/Oct/26 12:20 PM,02/Nov/26 10:22 AM,02/Nov/26 10:23 AM,,,0,TP1,"h3. Summary
+
+Plan to check the functionality of registration.
+
+h3. Context
+
+This issue is about testing the registration functionality.
+
+h3. Acceptance criteria
+
+* Check the functionality of registration.
+
+h3. Other information
+
+N/A",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,SEQ-5,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00062:,,,,,,,,,SEQ Sprint 1,,,,,,,,,,,,,,,,,,,,,To Do,31/Oct/26 12:20 PM
+Registration module testExecution,SEQ-28,10031,Test Execution,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,31/Oct/26 12:49 PM,02/Nov/26 10:23 AM,02/Nov/26 10:23 AM,,,0,TE1,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-5,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00065:,,,,,,,,,SEQ Sprint 1,,,,,,,,,,,,,,,,,,,,,To Do,31/Oct/26 12:49 PM
+login with valid email and password,SEQ-29,10032,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,01/Nov/26 5:43 PM,01/Nov/26 5:43 PM,01/Nov/26 8:12 PM,,,0,TC4,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-6,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0006f:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,01/Nov/26 5:43 PM
+login without entering the email and password,SEQ-33,10036,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,01/Nov/26 5:57 PM,01/Nov/26 5:57 PM,01/Nov/26 8:12 PM,,,0,TC8,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-6,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0006f:9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,01/Nov/26 5:57 PM
+login with invalid email and valid password,SEQ-32,10035,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,01/Nov/26 5:56 PM,01/Nov/26 5:56 PM,01/Nov/26 8:12 PM,,,0,TC7,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-6,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0006f:i,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,01/Nov/26 5:56 PM
+login with valid email and  invalid password,SEQ-31,10034,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,01/Nov/26 5:54 PM,01/Nov/26 5:54 PM,01/Nov/26 8:12 PM,,,0,TC6,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-6,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0006g:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,01/Nov/26 5:54 PM
+login with invalid email and password,SEQ-30,10033,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,01/Nov/26 5:51 PM,01/Nov/26 5:51 PM,01/Nov/26 8:12 PM,,,0,TC5,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-6,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0006h:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,01/Nov/26 5:51 PM
+during login click the forgot password button,SEQ-34,10037,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,01/Nov/26 7:51 PM,01/Nov/26 7:51 PM,01/Nov/26 8:12 PM,,,0,TC9,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-8,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0006w:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,01/Nov/26 7:51 PM
+do 5 login attempts with invalid password,SEQ-35,10038,Xray Test,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,01/Nov/26 8:11 PM,01/Nov/26 8:14 PM,01/Nov/26 8:14 PM,,,0,TC10,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,,,,,,,,SEQ-7,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i00073:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,01/Nov/26 8:11 PM
+login page should be present,SEQ-36,10039,Precondition,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,01/Nov/26 8:18 PM,01/Nov/26 8:18 PM,,,,0,PC2,,,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,SEQ-6,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0007h:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,01/Nov/26 8:18 PM
+registration passed using invalid credentials,SEQ-37,10040,Bug,To Do,SEQ,ShopEasy QA,software,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,Medium,,Gurram Suresh,557058:7b6d829f-5c41-4582-adb1-86da034bdc58,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,02/Nov/26 10:16 AM,02/Nov/26 10:59 AM,02/Nov/26 10:29 AM,,,0,BUG1,"h3. Impact
+
+Registration can pass even when invalid credentials are used. This may allow users to complete registration incorrectly.
+
+h3. Expected behaviour
+
+Registration should fail when invalid credentials are entered.
+
+h3. Actual behaviour
+
+Registration passed using invalid credentials.
+
+h3. Steps to reproduce
+
+* Try to register using invalid credentials.
+* Observe that registration still passes.
+
+h3. Other information
+
+bug - registration passed using invalid credentials",,Ram Reddy,712020:a64fed60-4280-4996-abd7-f72e6ba2864d,,,,,,,,,SEQ-24,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,,{},,,,,,,,,,,,,,,0|i0007n:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Nov/26 10:16 AM

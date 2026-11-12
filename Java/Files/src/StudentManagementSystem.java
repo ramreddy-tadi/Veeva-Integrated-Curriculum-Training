@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class StudentManagementSystem {
 
     static Scanner sc = new Scanner(System.in);
     static String fileName = "student.txt";

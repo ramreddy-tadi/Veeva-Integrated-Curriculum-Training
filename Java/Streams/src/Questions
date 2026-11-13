@@ -1,0 +1,66 @@
+
+Stream Program
+---------------
+
+Create ArrayList of n Strings probably representing names of different programming languages, different databases, different os, different ai tools, that are used for s/w development. now perform the following tasks
+
+* find all the names of the programming languages, databases, os, ai tools that start with a specific letter(user input)
+* find all the content that starts with j and ends with a
+* find all the content that starts with specific letter but in upper case
+* find all the content that starts with specific letter but distinct output
+* find all the content that starts with specific letter but in upper case and only distinct content
+* find all the content that starts with specific letter but in sorted order
+* find all the distinct content that starts with specific letter in upper case and sorted order
+* find the count of distinct elements starting with a specific letter
+* find first element of the stream which filters data starting with s
+* check whether any element starts with s
+* find if all the names start with s
+
+
+CASE STUDY -1
+--------------
+
+Create a list of employees with fields like employee name, age, department . now
+
+* write a code snippet to group employees by using department name with the help of streams
+* Write a code snippet to group employees based on age
+* find eldest or oldest employee
+* find youngest employee
+
+
+CASE STUDY -2
+--------------
+
+You are given two lists of integers now
+
+* find sum, avg, max and min of each list separately
+* find k most frequent elements from list1, list2 separately
+* find second most frequent element separately
+* merge two lists into single list using flatMap
+* find common elements from two lists using streams
+
+
+StreamQuestion3
+----------------
+
+* Create a list of strings and map each string and string value(length) using stream
+* Find longest word from given list of strings
+* Find shortest word from given list of strings
+
+
+CASE STUDY -3
+--------------
+
+construct a list of employees where each employee represents following attributes (id name job skills salary dept) now
+
+* find the top earning employees in each department dept wise.
+* find names of employees in engineering department who have more than 80000 salary sort alphabetically based on name
+* extracted the de-duplicated list of all employee skills that start with j
+* group all employees by department but only include employees earning more than 1 lakh salary
+* filter stream of employees so that only first employee per department is Kept
+
+
+CASE STUDY -4
+--------------
+
+ You have a list of company objects and each company contains list of employee objects the attributes of company are (id name location type) and attributes of employee are (id name salary). Now find a flat list of all employee names across all the companies.

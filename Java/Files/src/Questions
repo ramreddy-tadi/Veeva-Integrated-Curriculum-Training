@@ -1,0 +1,32 @@
+File Verification
+-------------------
+
+Create a simple Java application to:
+Verify whether a particular file exists in your system or not.
+If it exists, verify whether it is a directory file or a data file.
+Verify whether the file is read-only or writable or both.
+Print the file name and its path also.
+
+StudentManagementSystem
+--------------------------
+
+You are asked to develop a sample Java application to manage student data called Student.txt as a collection of records.
+Attributes for the student record are:
+Rollno
+Name
+Age
+M1
+M2
+M3
+M4
+M5
+Grade
+You should create a menu-driven application to perform CRUD operations on the student file.
+Menu
+1. Add Records
+2. Read All Records
+3. Read Record on Roll No
+4. Read Record on Name
+5. Delete Record on Roll No
+6. Update Record on Roll No, Name, Age
+7. Exit
